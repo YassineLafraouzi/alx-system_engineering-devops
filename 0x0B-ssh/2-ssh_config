@@ -1,5 +1,5 @@
+#!/usr/bin/env bash
 # SSH Config File
-#
 Host web-01
 	Hostname 34.207.211.138
 	User ubuntu
